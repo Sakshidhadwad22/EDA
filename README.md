@@ -1,5 +1,5 @@
 # EDA
-n machine learning, Exploratory Data Analysis (EDA) is a crucial step in understanding and preparing data for modeling. The steps you mentioned are commonly used to clean and preprocess data during the EDA process. Here's a brief overview of each step:
+n machine learning, Exploratory Data Analysis (EDA) is a crucial step in understanding and preparing data for modeling. The steps i mentioned are commonly used to clean and preprocess data during the EDA process. Here's a brief overview of each step:
 
 Removing outliers: Outliers are data points that are significantly different from other data points in the dataset. Outliers can be caused by errors in data collection, measurement errors, or anomalies. Removing outliers can help improve the accuracy of models and reduce their sensitivity to unusual data points.
 
